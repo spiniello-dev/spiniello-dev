@@ -24,7 +24,7 @@ Our mission is to create reliable, maintainable, and scalable applications that 
 | **HoursReport** | Time and hours reporting utility |
 | **EQ-Master** | Equipment rate and data management |
 | **Fleetara** | Fleet and asset tracking platform |
-| **ITHUB** | Internal IT knowledgebase and documentation |
+| **ITHub** | Internal IT knowledgebase and documentation |
 
 ---
 
