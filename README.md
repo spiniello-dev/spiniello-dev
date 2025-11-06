@@ -45,4 +45,4 @@ If you’re part of Spiniello Companies and have suggestions or requests, please
 
 ---
 
-📍 *Maintained by the Spiniello IT/Dev Team — Edison, NJ*
+📍 *Maintained by the Spiniello IT/Dev Team — Livingston, NJ*
