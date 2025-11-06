@@ -17,6 +17,7 @@ Our mission is to create reliable, maintainable, and scalable applications that 
 
 | Project | Description |
 |----------|--------------|
+| **Dashboard** | Spiniello Apps SSO dashboard |
 | **SpinTrak** | Equipment scheduling and tracking platform |
 | **LaborWise** | Labor analytics and optimization tools |
 | **TravelWise** | Travel authorization and expense insight system |
