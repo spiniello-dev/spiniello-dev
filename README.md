@@ -13,22 +13,6 @@ Our mission is to create reliable, maintainable, and scalable applications that 
 
 ---
 
-## 🧩 Projects
-
-| Project | Description |
-|----------|--------------|
-| **Dashboard** | Spiniello Apps SSO dashboard |
-| **SpinTrak** | Equipment scheduling and tracking platform |
-| **LaborWise** | Labor analytics and optimization tools |
-| **TravelWise** | Travel authorization and expense insight system |
-| **ProjectWise** | Project management, documentation, and collaboration |
-| **HoursReport** | Time and hours reporting utility |
-| **EQ-Master** | Equipment rate and data management |
-| **Fleetara** | Fleet and asset tracking platform |
-| **ITHub** | Internal IT knowledgebase and documentation |
-
----
-
 ## 🧠 Development Standards
 
 - **Security First:** Secrets and environment configs are stored locally and excluded via `.gitignore`.
